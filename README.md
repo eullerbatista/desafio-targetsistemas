@@ -4,24 +4,23 @@
 # Desafio Target Sistemas
 
 Este repositório contém a resolução de três exercícios práticos em **Node.js**, organizados em pastas separadas.
+Tentei deixar bem comentado o código para facilitar a visualização da lógica
 
 ---
 
 ## Estrutura
 
-DesafioTargetSistemas 
-│── exercicio_1
-│   ├── .gitignore
+DesafioTargetSistemas
+├── .gitignore
+│── exercicio_1  
 │   ├── index.js
 │   └── vendas.json
 │
 │── exercicio_2
-│   ├── .gitignore
 │   ├── index.js
 │   └── estoque.json
 │
 │── exercicio_3
-│   ├── .gitignore
 │   ├── index.js
 │   ├── package.json
 │   ├── package-lock.json
@@ -29,22 +28,6 @@ DesafioTargetSistemas
 ```
 
 ---
-
-## Exercícios
-
-### - Exercício 1 – Cálculo de Comissões
-Programa que lê um arquivo JSON com registros de vendas e calcula a comissão de cada vendedor seguindo regras específicas de percentual por faixa de valor.
-
-### - Exercício 2 – Controle de Estoque
-Sistema simples de movimentação de estoque, permitindo lançar entradas e saídas de produtos.  
-Cada movimentação possui identificador único, descrição e retorna o estoque atualizado do produto movimentado.
-
-### - Exercício 3 – Cálculo de Juros
-Aplicação que, a partir de um valor e uma data de vencimento, calcula o valor final com juros considerando multa de **2,5% ao dia de atraso**.  
-Implementado com auxílio da biblioteca **date-fns** para manipulação de datas.
-
----
-
 
 ##  Tecnologias utilizadas
 - **Node.js**
