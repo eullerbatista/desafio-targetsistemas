@@ -8,7 +8,7 @@ Este repositório contém a resolução de três exercícios práticos em **Node
 ---
 
 ## Estrutura
-```
+
 DesafioTargetSistemas 
 │── exercicio_1
 │   ├── .gitignore
@@ -81,7 +81,3 @@ Desenvolvido por **Euller** como parte do desafio técnico da Target Sistemas.
 ```
 
 ---
-
-Basta criar um arquivo chamado `README.md` na raiz do projeto e colar esse conteúdo. Assim, quando você subir para o GitHub, o README será exibido automaticamente na página inicial do repositório.  
-
-Quer que eu te mostre também como adicionar um **badge** (selo visual) no README, por exemplo mostrando a versão do Node.js ou status do projeto?
